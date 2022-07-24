@@ -4,7 +4,7 @@ This repository contains scripts and Jupyter notebooks used in "Hidden Markov Mo
 
 ## Descriptions on files
 
-The files are organied as the following:
+The files are organied as follows:
 
 - `src/01_generate_test_data.jl` 
 
