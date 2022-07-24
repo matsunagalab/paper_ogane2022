@@ -1,6 +1,6 @@
 ## Scripts and notebooks used in Ogane et al. 2022
 
-This repository contains scripts and Jupyter notebooks used in "Hidden Markov Modeling of Molecular Orientations and Structures from High-Speed Atomic Force Microscopy Time-Series Images" by Tomonori Ogane, Daisuke Noshiro, Toshio Ando, Atsuko Yamashita, Yuji Sugita, and Yasuhiro Matsunaga.
+This repository contains scripts and Jupyter notebooks used in "Hidden Markov Modeling of Molecular Orientations and Structures from High-Speed Atomic Force Microscopy Time-Series Images" by Tomonori Ogane, Daisuke Noshiro, Toshio Ando, Atsuko Yamashita, Yuji Sugita, and Yasuhiro Matsunaga (2022).
 
 ## Descriptions on files
 
