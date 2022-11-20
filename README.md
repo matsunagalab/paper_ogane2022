@@ -6,6 +6,10 @@ This repository contains scripts and Jupyter notebooks used in "Development of H
 
 The files are organized as follows:
 
+- [src/afm.jl](https://github.com/matsunagalab/paper_ogane2022/blob/main/src/afm.jl)
+
+  - Define function for hidden Makrov modeling (including the Viterbi and the Baum-Welch algorithms)
+ 
 - [md/](https://github.com/matsunagalab/paper_ogane2022/tree/main/md)
 
   - Contains input files for the molecular dynamics simulations of a coarse-grained model for taste receptor
