@@ -1,0 +1,174 @@
+[INPUT]
+grotopfile = go.grotop
+pdbfile = GO_CCA_resname.pdb
+
+[OUTPUT]
+dcdfile = run.dcd
+rstfile = run.rst
+
+[ENERGY]
+forcefield      = KBGO
+electrostatic   = CUTOFF
+switchdist      = 19.9                       # switch distance
+cutoffdist      = 20.0                       # cutoff distance
+pairlistdist    = 50.0                       # pair-list cutoff distance
+output_style  = GENESIS
+water_model   = NONE
+num_basins	= 4
+mix_temperature	= 10000
+basinenergy1	= 0.0
+basinenergy2	= 0.0
+basinenergy3    = 0.0
+basinenergy4    = -100.0
+
+[DYNAMICS]
+integrator      = VVER                        # [LEAP,VVER]
+nsteps          = 100000
+timestep        = 0.0010                       # timestep (ps)
+eneout_period   = 1000
+rstout_period   = 1000
+crdout_period   = 1000
+nbupdate_period = 10
+stoptr_period	= 1
+
+[CONSTRAINTS]
+rigid_bond      = NO                         # constraints all bonds
+fast_water      = NO                          # settle constraint
+shake_tolerance = 1.0e-6                      # tolerance (Angstrom)
+
+[ENSEMBLE]
+ensemble        = NVT                         # [NVE,NVT,NPT]
+tpcontrol       = LANGEVIN		      # thermostat
+temperature     = 200                         # initial and target
+gamma_t         = 0.01                        # thermostat friction (ps-1)
+                                              # temperature (K)
+[BOUNDARY]
+type            = NOBC                        # [PBC, NOBC]
+
+[SELECTION]
+group1 = rno:34
+group2 = rno:77
+group3 = rno:320
+group4 = rno:624
+group5 = rno:324
+group6 = rno:326
+group7 = rno:362
+group8 = rno:367
+group9 = rno:452
+group10 = rno:471
+group11 = rno:456
+group12 = rno:474
+group13 = rno:477
+group14 = rno:492
+group15 = rno:495
+group16 = rno:508
+group17 = rno:557
+group18 = rno:598
+group19 = rno:852
+group20 = rno:855
+group21 = rno:895
+group22 = rno:900
+group23 = rno:985
+group24 = rno:1004
+group25 = rno:989
+group26 = rno:1007
+group27 = rno:1010
+group28 = rno:1024
+group29 = rno:1027
+group30 = rno:1040
+group31 = rno:207
+group32 = rno:470
+group33 = rno:731
+group34 = rno:1003
+
+[RESTRAINTS]
+nfunctions = 17
+
+function1 = DIST
+constant1 = 25.5975
+reference1 = 6.542045387730061
+select_index1 = 1 2
+
+function2 = DIST
+constant2 = 25.5975
+reference2 = 6.123736664745185
+select_index2 = 3 4
+
+function3 = DIST
+constant3 = 25.5975
+reference3 = 5.269955849533964
+select_index3 = 5 6
+
+function4 = DIST
+constant4 = 25.5975
+reference4 = 4.2156273581673975
+select_index4 = 7 8
+
+function5 = DIST
+constant5 = 25.5975
+reference5 = 5.132875869849006
+select_index5 = 9 10
+
+function6 = DIST
+constant6 = 25.5975
+reference6 = 5.621639272368824
+select_index6 = 11 12
+
+function7 = DIST
+constant7 = 25.5975
+reference7 = 5.764511854972945
+select_index7 = 13 14
+
+function8 = DIST
+constant8 = 25.5975
+reference8 = 5.947070500993883
+select_index8 = 15 16
+
+function9 = DIST
+constant9 = 25.5975
+reference9 = 6.007155929815817
+select_index9 = 17 18
+
+function10 = DIST
+constant10 = 25.5975
+reference10 = 5.438292664572427
+select_index10 = 19 20
+
+function11 = DIST
+constant11 = 25.5975
+reference11 = 3.904237768339117
+select_index11 = 21 22
+
+function12 = DIST
+constant12 = 25.5975
+reference12 = 5.183029741096464
+select_index12 = 23 24
+
+function13 = DIST
+constant13 = 25.5975
+reference13 = 5.609395380977586
+select_index13 = 25 26
+
+function14 = DIST
+constant14 = 25.5975
+reference14 = 5.934843419119763
+select_index14 = 27 28
+
+function15 = DIST
+constant15 = 25.5975
+reference15 = 6.235370179447818
+select_index15 = 29 30
+
+function16 = DIST
+constant16 = 25.5975
+reference16 = 6.348244981685068
+select_index16 = 31 32
+
+function17 = DIST
+constant17 = 25.5975
+reference17 = 6.327470602129914
+select_index17 = 33 34
+
+ 
+
+
