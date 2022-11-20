@@ -26,7 +26,7 @@ The files are organized as follows:
 
   - Contains a script to generate pseudo-AFM images for likelihood calculations
  
-- [paper_ogane2022/01_psudo_test/01_generate_realization01.jl](https://github.com/matsunagalab/paper_ogane2022/blob/main/01_psudo_test/01_generate_realization01.jl)
+- [01_psudo_test/01_generate_realization01.jl](https://github.com/matsunagalab/paper_ogane2022/blob/main/01_psudo_test/01_generate_realization01.jl)
 
   - Script to generate pseudo-AFM images for twin experiment
  
