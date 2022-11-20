@@ -1,0 +1,203 @@
+./run_each.sh 1 
+./run_each.sh 2 
+./run_each.sh 3 
+./run_each.sh 4 
+./run_each.sh 5 
+./run_each.sh 6 
+./run_each.sh 7 
+./run_each.sh 8 
+./run_each.sh 9 
+./run_each.sh 10 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 11 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 12 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 13 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 14 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 15 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 16 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 17 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 18 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 19 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 20 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 21 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 22 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 23 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 24 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 25 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 26 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 27 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 28 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 29 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 30 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 31 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 32 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 33 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 34 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 35 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 36 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 37 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 38 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 39 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 40 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 41 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 42 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 43 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 44 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 45 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 46 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 47 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 48 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 49 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 50 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 51 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 52 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 53 
+┌ Warning: Assignment to `param` in soft scope is ambiguous because a global variable by the same name exists: `param` will be treated as a new local. Disambiguate by using `local param` to suppress this warning or `global param` to assign to the existing global variable.
+└ @ /opt/julia_depot/packages/BSON/rOaki/src/BSON.jl:51
+./run_each.sh 54 
+slurmstepd: error: *** JOB 13151 ON n2 CANCELLED AT 2022-11-16T19:23:38 ***
+
+signal (15): Terminated
+in expression starting at /data/yasu/seica/01_psudo_test/04_confidence_interval_radius_25/run.jl:139
+
+signal (15): Terminated
+in expression starting at /data/yasu/seica/01_psudo_test/04_confidence_interval_radius_25/run.jl:117
+setindex! at ./array.jl:968 [inlined]
+setindex! at ./multidimensional.jl:674 [inlined]
+macro expansion at ./broadcast.jl:961 [inlined]
+macro expansion at ./simdloop.jl:77 [inlined]
+copyto! at ./broadcast.jl:960 [inlined]
+copyto! at ./broadcast.jl:913 [inlined]
+copy at ./broadcast.jl:885 [inlined]
+materialize at ./broadcast.jl:860
+unknown function (ip: 0x7fbbd611f60d)
+epoll_wait at /lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+
+signal (15): Terminated
+in expression starting at /data/yasu/seica/01_psudo_test/04_confidence_interval_radius_25/run.jl:139
+muladd at ./float.jl:388 [inlined]
+exp_impl at ./special/exp.jl:211 [inlined]
+exp at ./special/exp.jl:326
+uv__io_poll at /workspace/srcdir/libuv/src/unix/epoll.c:236
+
+signal (15): Terminated
+in expression starting at /data/yasu/seica/01_psudo_test/04_confidence_interval_radius_25/run.jl:117
+uv_run at /workspace/srcdir/libuv/src/unix/core.c:400
+_broadcast_getindex_evalf at ./broadcast.jl:670 [inlined]
+_broadcast_getindex at ./broadcast.jl:643 [inlined]
+_getindex at ./broadcast.jl:666 [inlined]
+_broadcast_getindex at ./broadcast.jl:642 [inlined]
+_getindex at ./broadcast.jl:667 [inlined]
+_getindex at ./broadcast.jl:666 [inlined]
+_broadcast_getindex at ./broadcast.jl:642 [inlined]
+getindex at ./broadcast.jl:597 [inlined]
+macro expansion at ./broadcast.jl:961 [inlined]
+macro expansion at ./simdloop.jl:77 [inlined]
+copyto! at ./broadcast.jl:960 [inlined]
+copyto! at ./broadcast.jl:913 [inlined]
+copy at ./broadcast.jl:885 [inlined]
+materialize at ./broadcast.jl:860
+unknown function (ip: 0x7fdda41661dd)
+_jl_invoke at /cache/build/default-amdci4-6/julialang/julia-release-1-dot-8/src/gf.c:2367 [inlined]
+ijl_apply_generic at /cache/build/default-amdci4-6/julialang/julia-release-1-dot-8/src/gf.c:2549
+ijl_task_get_next at /cache/build/default-amdci4-6/julialang/julia-release-1-dot-8/src/partr.c:565
+
+signal (15): Terminated
+in expression starting at /data/yasu/seica/01_psudo_test/04_confidence_interval_radius_25/run.jl:117
+baumwelch_backward at /data/yasu/seica/src/afm.jl:435
+unknown function (ip: 0x7fbbd611e453)
+_jl_invoke at /cache/build/default-amdci4-6/julialang/julia-release-1-dot-8/src/gf.c:2367 [inlined]
+ijl_apply_generic at /cache/build/default-amdci4-6/julialang/julia-release-1-dot-8/src/gf.c:2549
+#baumwelch#16 at /data/yasu/seica/src/afm.jl:470
+baumwelch at /data/yasu/seica/src/afm.jl:443
+_jl_invoke at /cache/build/default-amdci4-6/julialang/julia-release-1-dot-8/src/gf.c:2367 [inlined]
+ijl_apply_generic at /cache/build/default-amdci4-6/julialang/julia-release-1-dot-8/src/gf.c:2549
+_jl_invoke at /cache/build/default-amdci4-6/julialang/julia-release-1-dot-8/src/gf.c:2367 [inlined]
+ijl_apply_generic at /cache/build/default-amdci4-6/julialang/julia-release-1-dot-8/src/gf.c:2549
+jl_apply at /cache/build/default-amdci4-6/julialang/julia-release-1-dot-8/src/julia.h:1839 [inlined]
+do_call at /cache/build/default-amdci4-6/julialang/julia-release-1-dot-8/src/interpreter.c:126
