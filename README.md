@@ -1,6 +1,6 @@
 ## Files used in Ogane et al.
 
-This repository contains scripts and Jupyter notebooks used in "Development of Hidden Markov Modeling Method for Molecular Orientations and Structure Estimation from High-Speed Atomic Force Microscopy Time-Series Images" by Tomonori Ogane, Daisuke Noshiro, Toshio Ando, Atsuko Yamashita, Yuji Sugita, and Yasuhiro Matsunaga.
+This repository contains scripts and input data used in "Development of Hidden Markov Modeling Method for Molecular Orientations and Structure Estimation from High-Speed Atomic Force Microscopy Time-Series Images" by Tomonori Ogane, Daisuke Noshiro, Toshio Ando, Atsuko Yamashita, Yuji Sugita, and Yasuhiro Matsunaga.
 
 ## Descriptions on files
 
